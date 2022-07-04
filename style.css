@@ -75,8 +75,8 @@ button {
   align-items: center;
 }
 
-#pricing .left-box, 
-.right-box {
+#pricing .left-box,
+  .right-box {
   width: 400px;
 }
 
@@ -93,6 +93,7 @@ button {
   color: #fefee3;
 }
 
-#contact .telefone, .adress {
+#contact .telefone,
+  .adress {
   background-color: rgb(54, 54, 54);
 }
