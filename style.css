@@ -76,7 +76,7 @@ button {
 }
 
 #pricing .left-box,
-  .right-box {
+.right-box {
   width: 400px;
 }
 
@@ -94,6 +94,6 @@ button {
 }
 
 #contact .telefone,
-  .adress {
+.adress {
   background-color: rgb(54, 54, 54);
 }
